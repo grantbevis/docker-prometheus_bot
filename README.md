@@ -1,4 +1,4 @@
-# rtorrent_exporter
+# prometheus_bot
 
 Containerised version of [prometheus_bot](https://github.com/inCaller/prometheus_bot)
 
